@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+App with several widget. Trying some components from flutter such as alerts, listView. AnimatedContainer, and so on
 
 ## Getting Started
 
